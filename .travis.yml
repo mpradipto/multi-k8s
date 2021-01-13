@@ -3,7 +3,7 @@ services:
   - docker
 env:
   global:
-    - VERSION='1.0'
+    - VERSION='2.0'
 
 before_install:
   # Log in to the docker CLI
